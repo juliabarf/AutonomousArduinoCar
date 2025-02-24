@@ -26,13 +26,15 @@ Funcionalidades ⚙️
     Controle de motores: A ponte H L9110 controla a direção e velocidade dos motores.
 
 Esquema de Conexões 🔌
-Componente	Pino no Arduino
-Sensor Trig	2
-Sensor Echo	3
-Ponte H A_IA	8
-Ponte H A_IB	9
-Ponte H B_IA	10
-Ponte H B_IB	11
+
+    Componente	Pino no Arduino
+    Sensor Trig	2
+    Sensor Echo	3
+    Ponte H A_IA	8
+    Ponte H A_IB	9
+    Ponte H B_IA	10
+    Ponte H B_IB	11
+    
 Como Usar o Código 💻
 
     Conecte os componentes conforme o esquema acima.
