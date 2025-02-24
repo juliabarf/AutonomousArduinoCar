@@ -71,9 +71,7 @@ Personalização 🛠️
 Contribuições 🤝
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou novas funcionalidades.
-Licença 📄
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 Como Adicionar ao GitHub:
 
     Crie um arquivo chamado README.md na raiz do seu repositório.
